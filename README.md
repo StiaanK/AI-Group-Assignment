@@ -1,7 +1,3 @@
-Certainly! Here's an updated README that reflects the changes made to the code to include encoding information in a text file:
-
----
-
 # Data Preprocessing and Encoding
 
 This code is designed to preprocess a dataset, handle missing values, perform categorical feature encoding using LabelEncoder, and save the encoding information to a text file. The dataset used is taken from the `adult.csv` file, which presumably contains information about individuals and their socio-economic attributes.
@@ -56,6 +52,3 @@ The main objectives of this code are:
 - pandas
 - scikit-learn
 
----
-
-Feel free to customize this README to provide additional context or information as needed.
