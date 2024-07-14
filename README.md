@@ -1,6 +1,6 @@
 # Data Preprocessing and Encoding
 
-This code is designed to preprocess a dataset, handle missing values, perform categorical feature encoding using LabelEncoder, and save the encoding information to a text file. The dataset used is taken from the `adult.csv` file, which presumably contains information about individuals and their socio-economic attributes.
+This code is designed to preprocess a dataset, handle missing values, perform categorical feature encoding using LabelEncoder, and save the encoding information to a text file. The dataset used is taken from the `adult.csv` file, which contains information about individuals and their socio-economic attributes.
 
 ## Table of Contents
 
